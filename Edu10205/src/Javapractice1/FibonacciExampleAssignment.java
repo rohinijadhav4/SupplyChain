@@ -4,7 +4,7 @@ public class FibonacciExampleAssignment {
 
 	public static void main(String[] args) {
 		{
-			int a1=1,a2=1,a3,i,count=10;
+			int a1=0,a2=1,a3,i,count=11;
 			System.out.println(a1+""+a2);
 			
 			for(i=2;i<count;++i)
